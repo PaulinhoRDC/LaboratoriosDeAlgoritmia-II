@@ -1,5 +1,5 @@
 # LaboratoriosDeAlgoritmia-II
 
-## Resolução dos Trabalhos Práticos da disciplina de Sistemas De Comunicações E Redes 19/20
+## Resolução dos Treinos e respetivos Torneios de Avaliação da disciplina de Laboratórios de Algoritmia da 19/20
 
-Nota Final: 
+Nota Final: 14
